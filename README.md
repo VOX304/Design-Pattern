@@ -1,4 +1,4 @@
-# Design-Pattern
+# Design Patterns
 
 ## Members: Phan Huỳnh Anh Thư - 17095 Võ Công Minh - 10421040
 # Design-Pattern (Youtube links)
