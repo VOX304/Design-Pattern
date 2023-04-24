@@ -7,4 +7,6 @@
 3. Template Method Pattern: https://youtu.be/iQmVorI16M0
 4. Iterator Pattern: https://youtu.be/rTE3k00PWKU
 5. State Pattern: https://youtu.be/ROxJ1cFDt5Q
-6. 
+6. Composite Pattern: https://youtu.be/MtvRbbY748c
+7. 
+
